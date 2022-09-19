@@ -1,5 +1,6 @@
 # github_search
 使用vue2.0脚手架与axios结合Github官方API完成的小案例
+Vue3版本已更新11至另一分支
 练手
 ## Project setup
 ```
